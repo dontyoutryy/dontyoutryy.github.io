@@ -2,7 +2,7 @@ backend:
   name: github
   repo: dontyoutryy/dontyoutryy.github.io
   branch: main
-  base_url: https://enchanting-swan-491369.netlify.app/
+  base_url: https://enchanting-swan-491369.netlify.app
 
 media_folder: "assets/img"
 public_folder: "/assets/img"
